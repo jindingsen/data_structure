@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-
+//在github上面修改不知道能不能pull下来
 typedef char Elemtype;
 typedef struct treenode
 {
